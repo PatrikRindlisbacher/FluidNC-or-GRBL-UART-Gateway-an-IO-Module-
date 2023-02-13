@@ -10,6 +10,7 @@ https://github.com/gnea/grbl/wiki/Grbl-v1.1-Interface
 
 Tests are already running.
 
-Projects that could be exciting. 
+Projects that could be exciting.
+
 https://github.com/quezadaminter/GrblJogCtrl
 
