@@ -8,7 +8,7 @@ This project was born on 03/15/2023.
 It should support GRBL from the current version 1.1
 https://github.com/gnea/grbl/wiki/Grbl-v1.1-Interface
 
-Tests are already running.
+Tests are already running with an ESP32 from M5Stack (Core2 / Atom )
 
 Projects that could be exciting.
 
