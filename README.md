@@ -9,3 +9,7 @@ It should support GRBL from the current version 1.1
 https://github.com/gnea/grbl/wiki/Grbl-v1.1-Interface
 
 Tests are already running.
+
+Projects that could be exciting. 
+https://github.com/quezadaminter/GrblJogCtrl
+
