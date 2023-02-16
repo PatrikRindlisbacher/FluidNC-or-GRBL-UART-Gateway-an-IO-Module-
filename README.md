@@ -1,7 +1,6 @@
 # FluidNC or GRBL UART-Gateway and I/O-Module or external Display
 Universal Extension via UART for pendant, external screen or input buttons
-![image](https://user-images.githubusercontent.com/39780457/218484465-8251b51d-f3f2-473e-a3c9-587599364c8f.png)
-
+![image](https://user-images.githubusercontent.com/39780457/219500790-009908b3-2a3d-4196-a37e-7c0415a59298.png)
 
 This project was born on 03/15/2023.
 
