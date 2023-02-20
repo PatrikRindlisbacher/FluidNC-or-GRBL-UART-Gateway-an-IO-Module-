@@ -2,7 +2,7 @@
 Universal Extension via UART for pendant, external screen or input buttons or LED ....
 ![image](https://user-images.githubusercontent.com/39780457/219500790-009908b3-2a3d-4196-a37e-7c0415a59298.png)
 
-This project was born on 03/15/2023.
+This project was born on 03/15/2023. --> Today, Feb. 20th, I will put the first part online.
 
 It should support GRBL from the current version 1.1
 https://github.com/gnea/grbl/wiki/Grbl-v1.1-Interface
