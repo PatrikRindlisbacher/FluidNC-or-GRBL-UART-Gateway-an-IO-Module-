@@ -4,7 +4,7 @@ Universal Extension via UART for pendant, external screen or input buttons or LE
 
 Flow of functions:
 - continuous sending of character ?
-- receive all messages com CNC controller
+- receive all messages from CNC controller
 - Message type recognition
 - parse message
 - Provide all values in variables
