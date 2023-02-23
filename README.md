@@ -5,7 +5,7 @@ https://github.com/PatrikRindlisbacher/grbl-Status-light-tower-M5-Atom-Matrix
 
 # FluidNC or GRBL UART-Gateway and I/O-Module or external Display
 Universal Extension via UART for pendant, external screen or input buttons or LED ....
-![image](https://user-images.githubusercontent.com/39780457/219500790-009908b3-2a3d-4196-a37e-7c0415a59298.png)
+<img width="488" alt="image" src="https://user-images.githubusercontent.com/39780457/220911645-f878896b-d0a0-46e5-8c62-c7335b65d26a.png">
 
 Flow of functions:
 - continuous sending of character ?
