@@ -1,5 +1,7 @@
 **first function in separate repo**  
 https://github.com/PatrikRindlisbacher/grbl-Status-light-tower-M5-Atom-Matrix
+!!!! The Light Tower is already supported by 3 boards.
+
 
 
 
