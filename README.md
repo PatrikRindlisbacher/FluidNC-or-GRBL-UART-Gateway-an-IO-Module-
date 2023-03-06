@@ -18,7 +18,7 @@ Flow of functions:
 - Provide all values in variables
 - Individual evaluation of the values
 
-**This project was born on 03/15/2023. --> Today, Feb. 20th, I will put the first part online.**  
+**This project was born on 02/15/2023. --> Today, Feb. 20th, I will put the first part online.**  
 https://github.com/PatrikRindlisbacher/grbl-Status-light-tower-M5-Atom-Matrix
 
 It should support GRBL from the current version 1.1
