@@ -28,9 +28,9 @@ Tests are already running with an ESP32 from M5Stack (Core2 / Atom )
 
 
 Projects that could be exciting.
-https://github.com/AC8L/FluidNC-Pendant
-https://github.com/gjkrediet/Fluid-controller
-https://github.com/quezadaminter/GrblJogCtrl
-http://dangeroustools.com/2020/01/03/dro-and-jog-wheel-for-grbl/
-https://openbuilds.com/builds/interface-cnc-touch-control-system.9688/
+https://github.com/AC8L/FluidNC-Pendant  
+https://github.com/gjkrediet/Fluid-controller  
+https://github.com/quezadaminter/GrblJogCtrl  
+http://dangeroustools.com/2020/01/03/dro-and-jog-wheel-for-grbl/  
+https://openbuilds.com/builds/interface-cnc-touch-control-system.9688/  
 
